@@ -9,7 +9,4 @@ database_id = "10627eab-1d99-40cb-a763-3637d204b468"
 
 [vars]
 ENVIRONMENT = "production"
-JWT_SECRET = "your-super-secret-key-change-this-123456789"
-
-[site]
-bucket = "./public"
+JWT_SECRET = "arc-panel-secret-key-2024"
