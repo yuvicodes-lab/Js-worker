@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "arcpanel"
-database_id = "10627eab-1d99-40cb-a763-3637d204b468"
+database_id = "fee8843d-1fb5-463b-8532-9c44122ab1d5"
 
 [vars]
 ENVIRONMENT = "production"
